@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gabriel Felix</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate mobile developer from Brazil</h3>
 <img align="right" alt="Coding" width="200" src="https://proeffico.com/wp-content/uploads/2023/10/app-development-1.gif">
 
 - 🔭 I’m currently working on [SurveyDM app](https://github.com/DemmiBot/field_research_app)
